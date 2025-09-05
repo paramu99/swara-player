@@ -30,8 +30,9 @@ button{appearance:none;border:none;border-radius:999px;padding:10px 16px;font-we
 /* Raga*/
 .control-group {
   margin-bottom: 12px;
-  display: flex;
+  /* display: flex; */
   align-items: center;
+  display: none; 
 }
 
 .control-group label {
